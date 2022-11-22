@@ -6,4 +6,4 @@
 
 ```Revival is made by the best Script Coders in the MooMoo.io Community (FZ and Ae8d6)```
 
-# Download[]
+# Download[https://github.com/Cheater-Hub/Revival-MooMoo.io/releases/tag/Revival-v3]
